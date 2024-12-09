@@ -7,9 +7,7 @@ import pandas as pd
 # Write directly to the app
 st.title("Customize Your Smoothie!:cup_with_straw:")
 st.write(
-    """Replace this example with your own code!
-    **And if you're new to Streamlit,** check
-    out our easy-to-follow guides at.
+    """**Order Your Smoothie.**
     """
 )
 
